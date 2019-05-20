@@ -1,0 +1,42 @@
+[
+    {
+    "thumb":"img/bg1.jpg",
+    "img":"img/img1.jpg",
+    "desc":"Baguette, hon hon hon"
+    },
+    {
+        "thumb":"img/bg2.jpg",
+        "img":"img/img2.jpg",
+        "desc":"Pig Space Marine"
+    },
+    {
+        "thumb":"img/bg3.jpg",
+        "img":"img/img3.jpg",
+        "desc":"Two faces"
+    },
+    {
+        "thumb":"img/bg6.jpg",
+        "img":"img/img6.png",
+        "desc":"Tchoo tchoo mother fuckers"
+    },
+    {
+        "thumb":"img/bg9.jpg",
+        "img":"img/img9.jpg",
+        "desc":"Cheeseburger Hunting season"
+    },
+    {
+        "thumb":"img/bg8.jpg",
+        "img":"img/img8.jpg",
+        "desc":"Left 4 Derp"
+    },
+    {
+        "thumb":"img/bg5.jpg",
+        "img":"img/img5.jpg",
+        "desc":"Fairy Wonderland"
+    },
+    {
+        "thumb":"img/bg10.jpg",
+        "img":"img/img10.jpg",
+        "desc":"Bacon Dispenser farm"
+    }
+]
